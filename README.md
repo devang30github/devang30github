@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Devang Gawade</h1>
-<h3 align="center">A passionate Machine Learning Engineer from Mumbai, India . I have a Bachelors Degree in Computer Science. CGPA:9.6</h3>
+<h3 align="center">A passionate Machine Learning Engineer from Mumbai, India .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devang30github&label=Profile%20views&color=0e75b6&style=flat" alt="devang30github" /> </p>
 
 - 🌱 I’m currently learning **Generative AI and Computer Vision**
+
+- 🦢 I have a Bachelors Degree in Computer Science with CGPA of 9.6
 
 - 💬 Ask me about **Machine Learning , Deep Learning and NLP**
 
